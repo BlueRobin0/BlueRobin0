@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### "push", ergo sum 😄
-### ```TODO```
+##### My ```TODO```s frequently outlive my commits. lol
 
 <!--
 **BlueRobin0/BlueRobin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
