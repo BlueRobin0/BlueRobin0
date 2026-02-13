@@ -1,4 +1,6 @@
 ### Hi there 👋
+### "push", ergo sum 😄
+### ```TODO```
 
 <!--
 **BlueRobin0/BlueRobin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
